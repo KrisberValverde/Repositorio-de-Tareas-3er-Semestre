@@ -1,0 +1,14 @@
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\figuras_geométricas\bin\Debug\net10.0\figuras_geométricas.exe
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\figuras_geométricas\bin\Debug\net10.0\figuras_geométricas.deps.json
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\figuras_geométricas\bin\Debug\net10.0\figuras_geométricas.runtimeconfig.json
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\figuras_geométricas\bin\Debug\net10.0\figuras_geométricas.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\figuras_geométricas\bin\Debug\net10.0\figuras_geométricas.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\figuras_geométricas\obj\Debug\net10.0\figuras_geométricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\figuras_geométricas\obj\Debug\net10.0\figuras_geométricas.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\figuras_geométricas\obj\Debug\net10.0\figuras_geométricas.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\figuras_geométricas\obj\Debug\net10.0\figuras_geométricas.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\figuras_geométricas\obj\Debug\net10.0\figuras_geométricas.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\figuras_geométricas\obj\Debug\net10.0\refint\figuras_geométricas.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\figuras_geométricas\obj\Debug\net10.0\figuras_geométricas.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\figuras_geométricas\obj\Debug\net10.0\figuras_geométricas.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\figuras_geométricas\obj\Debug\net10.0\ref\figuras_geométricas.dll

@@ -1,0 +1,14 @@
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_Estudiantes\bin\Debug\net10.0\Registro_de_Estudiantes.exe
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_Estudiantes\bin\Debug\net10.0\Registro_de_Estudiantes.deps.json
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_Estudiantes\bin\Debug\net10.0\Registro_de_Estudiantes.runtimeconfig.json
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_Estudiantes\bin\Debug\net10.0\Registro_de_Estudiantes.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_Estudiantes\bin\Debug\net10.0\Registro_de_Estudiantes.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_Estudiantes\obj\Debug\net10.0\Registro_de_Estudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_Estudiantes\obj\Debug\net10.0\Registro_de_Estudiantes.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_Estudiantes\obj\Debug\net10.0\Registro_de_Estudiantes.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_Estudiantes\obj\Debug\net10.0\Registro_de_Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_Estudiantes\obj\Debug\net10.0\Registro_de_Estudiantes.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_Estudiantes\obj\Debug\net10.0\refint\Registro_de_Estudiantes.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_Estudiantes\obj\Debug\net10.0\Registro_de_Estudiantes.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_Estudiantes\obj\Debug\net10.0\Registro_de_Estudiantes.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_Estudiantes\obj\Debug\net10.0\ref\Registro_de_Estudiantes.dll

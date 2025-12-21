@@ -1,0 +1,14 @@
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Agenda_de_turnos\bin\Debug\net10.0\Agenda_de_turnos.exe
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Agenda_de_turnos\bin\Debug\net10.0\Agenda_de_turnos.deps.json
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Agenda_de_turnos\bin\Debug\net10.0\Agenda_de_turnos.runtimeconfig.json
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Agenda_de_turnos\bin\Debug\net10.0\Agenda_de_turnos.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Agenda_de_turnos\bin\Debug\net10.0\Agenda_de_turnos.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Agenda_de_turnos\obj\Debug\net10.0\Agenda_de_turnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Agenda_de_turnos\obj\Debug\net10.0\Agenda_de_turnos.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Agenda_de_turnos\obj\Debug\net10.0\Agenda_de_turnos.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Agenda_de_turnos\obj\Debug\net10.0\Agenda_de_turnos.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Agenda_de_turnos\obj\Debug\net10.0\Agenda_de_turnos.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Agenda_de_turnos\obj\Debug\net10.0\refint\Agenda_de_turnos.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Agenda_de_turnos\obj\Debug\net10.0\Agenda_de_turnos.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Agenda_de_turnos\obj\Debug\net10.0\Agenda_de_turnos.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Agenda_de_turnos\obj\Debug\net10.0\ref\Agenda_de_turnos.dll

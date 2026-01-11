@@ -1,0 +1,14 @@
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Asignaturas_Aprobadas_Reprobadas\obj\Debug\net10.0\Asignaturas_Aprobadas_Reprobadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Asignaturas_Aprobadas_Reprobadas\obj\Debug\net10.0\Asignaturas_Aprobadas_Reprobadas.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Asignaturas_Aprobadas_Reprobadas\obj\Debug\net10.0\Asignaturas_Aprobadas_Reprobadas.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Asignaturas_Aprobadas_Reprobadas\obj\Debug\net10.0\Asignaturas_Aprobadas_Reprobadas.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Asignaturas_Aprobadas_Reprobadas\bin\Debug\net10.0\Asignaturas_Aprobadas_Reprobadas.exe
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Asignaturas_Aprobadas_Reprobadas\bin\Debug\net10.0\Asignaturas_Aprobadas_Reprobadas.deps.json
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Asignaturas_Aprobadas_Reprobadas\bin\Debug\net10.0\Asignaturas_Aprobadas_Reprobadas.runtimeconfig.json
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Asignaturas_Aprobadas_Reprobadas\bin\Debug\net10.0\Asignaturas_Aprobadas_Reprobadas.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Asignaturas_Aprobadas_Reprobadas\bin\Debug\net10.0\Asignaturas_Aprobadas_Reprobadas.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Asignaturas_Aprobadas_Reprobadas\obj\Debug\net10.0\Asignaturas_Aprobadas_Reprobadas.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Asignaturas_Aprobadas_Reprobadas\obj\Debug\net10.0\refint\Asignaturas_Aprobadas_Reprobadas.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Asignaturas_Aprobadas_Reprobadas\obj\Debug\net10.0\Asignaturas_Aprobadas_Reprobadas.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Asignaturas_Aprobadas_Reprobadas\obj\Debug\net10.0\Asignaturas_Aprobadas_Reprobadas.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Asignaturas_Aprobadas_Reprobadas\obj\Debug\net10.0\ref\Asignaturas_Aprobadas_Reprobadas.dll

@@ -1,0 +1,14 @@
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Palabra_Palindromo\bin\Debug\net10.0\Palabra_Palindromo.exe
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Palabra_Palindromo\bin\Debug\net10.0\Palabra_Palindromo.deps.json
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Palabra_Palindromo\bin\Debug\net10.0\Palabra_Palindromo.runtimeconfig.json
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Palabra_Palindromo\bin\Debug\net10.0\Palabra_Palindromo.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Palabra_Palindromo\bin\Debug\net10.0\Palabra_Palindromo.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Palabra_Palindromo\obj\Debug\net10.0\Palabra_Palindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Palabra_Palindromo\obj\Debug\net10.0\Palabra_Palindromo.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Palabra_Palindromo\obj\Debug\net10.0\Palabra_Palindromo.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Palabra_Palindromo\obj\Debug\net10.0\Palabra_Palindromo.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Palabra_Palindromo\obj\Debug\net10.0\Palabra_Palindromo.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Palabra_Palindromo\obj\Debug\net10.0\refint\Palabra_Palindromo.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Palabra_Palindromo\obj\Debug\net10.0\Palabra_Palindromo.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Palabra_Palindromo\obj\Debug\net10.0\Palabra_Palindromo.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Palabra_Palindromo\obj\Debug\net10.0\ref\Palabra_Palindromo.dll

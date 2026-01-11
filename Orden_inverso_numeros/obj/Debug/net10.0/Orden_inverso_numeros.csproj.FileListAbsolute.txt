@@ -1,0 +1,14 @@
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Orden_inverso_numeros\bin\Debug\net10.0\Orden_inverso_numeros.exe
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Orden_inverso_numeros\bin\Debug\net10.0\Orden_inverso_numeros.deps.json
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Orden_inverso_numeros\bin\Debug\net10.0\Orden_inverso_numeros.runtimeconfig.json
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Orden_inverso_numeros\bin\Debug\net10.0\Orden_inverso_numeros.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Orden_inverso_numeros\bin\Debug\net10.0\Orden_inverso_numeros.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Orden_inverso_numeros\obj\Debug\net10.0\Orden_inverso_numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Orden_inverso_numeros\obj\Debug\net10.0\Orden_inverso_numeros.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Orden_inverso_numeros\obj\Debug\net10.0\Orden_inverso_numeros.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Orden_inverso_numeros\obj\Debug\net10.0\Orden_inverso_numeros.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Orden_inverso_numeros\obj\Debug\net10.0\Orden_inverso_numeros.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Orden_inverso_numeros\obj\Debug\net10.0\refint\Orden_inverso_numeros.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Orden_inverso_numeros\obj\Debug\net10.0\Orden_inverso_numeros.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Orden_inverso_numeros\obj\Debug\net10.0\Orden_inverso_numeros.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Orden_inverso_numeros\obj\Debug\net10.0\ref\Orden_inverso_numeros.dll

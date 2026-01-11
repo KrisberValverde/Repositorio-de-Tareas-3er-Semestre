@@ -1,0 +1,14 @@
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Calificaciones_de_Asignaturas\bin\Debug\net10.0\Calificaciones_de_Asignaturas.exe
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Calificaciones_de_Asignaturas\bin\Debug\net10.0\Calificaciones_de_Asignaturas.deps.json
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Calificaciones_de_Asignaturas\bin\Debug\net10.0\Calificaciones_de_Asignaturas.runtimeconfig.json
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Calificaciones_de_Asignaturas\bin\Debug\net10.0\Calificaciones_de_Asignaturas.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Calificaciones_de_Asignaturas\bin\Debug\net10.0\Calificaciones_de_Asignaturas.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Calificaciones_de_Asignaturas\obj\Debug\net10.0\Calificaciones_de_Asignaturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Calificaciones_de_Asignaturas\obj\Debug\net10.0\Calificaciones_de_Asignaturas.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Calificaciones_de_Asignaturas\obj\Debug\net10.0\Calificaciones_de_Asignaturas.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Calificaciones_de_Asignaturas\obj\Debug\net10.0\Calificaciones_de_Asignaturas.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Calificaciones_de_Asignaturas\obj\Debug\net10.0\Calificaciones_de_Asignaturas.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Calificaciones_de_Asignaturas\obj\Debug\net10.0\refint\Calificaciones_de_Asignaturas.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Calificaciones_de_Asignaturas\obj\Debug\net10.0\Calificaciones_de_Asignaturas.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Calificaciones_de_Asignaturas\obj\Debug\net10.0\Calificaciones_de_Asignaturas.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Calificaciones_de_Asignaturas\obj\Debug\net10.0\ref\Calificaciones_de_Asignaturas.dll

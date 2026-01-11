@@ -1,0 +1,14 @@
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Cantidad_de_cada_vocal\bin\Debug\net10.0\Cantidad_de_cada_vocal.exe
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Cantidad_de_cada_vocal\bin\Debug\net10.0\Cantidad_de_cada_vocal.deps.json
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Cantidad_de_cada_vocal\bin\Debug\net10.0\Cantidad_de_cada_vocal.runtimeconfig.json
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Cantidad_de_cada_vocal\bin\Debug\net10.0\Cantidad_de_cada_vocal.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Cantidad_de_cada_vocal\bin\Debug\net10.0\Cantidad_de_cada_vocal.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Cantidad_de_cada_vocal\obj\Debug\net10.0\Cantidad_de_cada_vocal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Cantidad_de_cada_vocal\obj\Debug\net10.0\Cantidad_de_cada_vocal.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Cantidad_de_cada_vocal\obj\Debug\net10.0\Cantidad_de_cada_vocal.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Cantidad_de_cada_vocal\obj\Debug\net10.0\Cantidad_de_cada_vocal.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Cantidad_de_cada_vocal\obj\Debug\net10.0\Cantidad_de_cada_vocal.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Cantidad_de_cada_vocal\obj\Debug\net10.0\refint\Cantidad_de_cada_vocal.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Cantidad_de_cada_vocal\obj\Debug\net10.0\Cantidad_de_cada_vocal.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Cantidad_de_cada_vocal\obj\Debug\net10.0\Cantidad_de_cada_vocal.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Cantidad_de_cada_vocal\obj\Debug\net10.0\ref\Cantidad_de_cada_vocal.dll

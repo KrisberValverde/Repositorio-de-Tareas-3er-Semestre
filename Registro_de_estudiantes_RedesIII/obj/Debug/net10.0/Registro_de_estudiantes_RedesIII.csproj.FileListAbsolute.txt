@@ -1,0 +1,14 @@
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_estudiantes_RedesIII\bin\Debug\net10.0\Registro_de_estudiantes_RedesIII.exe
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_estudiantes_RedesIII\bin\Debug\net10.0\Registro_de_estudiantes_RedesIII.deps.json
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_estudiantes_RedesIII\bin\Debug\net10.0\Registro_de_estudiantes_RedesIII.runtimeconfig.json
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_estudiantes_RedesIII\bin\Debug\net10.0\Registro_de_estudiantes_RedesIII.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_estudiantes_RedesIII\bin\Debug\net10.0\Registro_de_estudiantes_RedesIII.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_estudiantes_RedesIII\obj\Debug\net10.0\Registro_de_estudiantes_RedesIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_estudiantes_RedesIII\obj\Debug\net10.0\Registro_de_estudiantes_RedesIII.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_estudiantes_RedesIII\obj\Debug\net10.0\Registro_de_estudiantes_RedesIII.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_estudiantes_RedesIII\obj\Debug\net10.0\Registro_de_estudiantes_RedesIII.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_estudiantes_RedesIII\obj\Debug\net10.0\Registro_de_estudiantes_RedesIII.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_estudiantes_RedesIII\obj\Debug\net10.0\refint\Registro_de_estudiantes_RedesIII.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_estudiantes_RedesIII\obj\Debug\net10.0\Registro_de_estudiantes_RedesIII.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_estudiantes_RedesIII\obj\Debug\net10.0\Registro_de_estudiantes_RedesIII.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_estudiantes_RedesIII\obj\Debug\net10.0\ref\Registro_de_estudiantes_RedesIII.dll

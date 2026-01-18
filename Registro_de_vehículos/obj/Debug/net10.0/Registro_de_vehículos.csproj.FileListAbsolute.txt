@@ -1,0 +1,14 @@
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_vehículos\bin\Debug\net10.0\Registro_de_vehículos.exe
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_vehículos\bin\Debug\net10.0\Registro_de_vehículos.deps.json
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_vehículos\bin\Debug\net10.0\Registro_de_vehículos.runtimeconfig.json
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_vehículos\bin\Debug\net10.0\Registro_de_vehículos.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_vehículos\bin\Debug\net10.0\Registro_de_vehículos.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_vehículos\obj\Debug\net10.0\Registro_de_vehículos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_vehículos\obj\Debug\net10.0\Registro_de_vehículos.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_vehículos\obj\Debug\net10.0\Registro_de_vehículos.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_vehículos\obj\Debug\net10.0\Registro_de_vehículos.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_vehículos\obj\Debug\net10.0\Registro_de_vehículos.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_vehículos\obj\Debug\net10.0\refint\Registro_de_vehículos.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_vehículos\obj\Debug\net10.0\Registro_de_vehículos.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_vehículos\obj\Debug\net10.0\Registro_de_vehículos.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Registro_de_vehículos\obj\Debug\net10.0\ref\Registro_de_vehículos.dll

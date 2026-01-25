@@ -1,0 +1,14 @@
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Parentesis_balanceados\bin\Debug\net10.0\Parentesis_balanceados.exe
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Parentesis_balanceados\bin\Debug\net10.0\Parentesis_balanceados.deps.json
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Parentesis_balanceados\bin\Debug\net10.0\Parentesis_balanceados.runtimeconfig.json
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Parentesis_balanceados\bin\Debug\net10.0\Parentesis_balanceados.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Parentesis_balanceados\bin\Debug\net10.0\Parentesis_balanceados.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Parentesis_balanceados\obj\Debug\net10.0\Parentesis_balanceados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Parentesis_balanceados\obj\Debug\net10.0\Parentesis_balanceados.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Parentesis_balanceados\obj\Debug\net10.0\Parentesis_balanceados.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Parentesis_balanceados\obj\Debug\net10.0\Parentesis_balanceados.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Parentesis_balanceados\obj\Debug\net10.0\Parentesis_balanceados.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Parentesis_balanceados\obj\Debug\net10.0\refint\Parentesis_balanceados.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Parentesis_balanceados\obj\Debug\net10.0\Parentesis_balanceados.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Parentesis_balanceados\obj\Debug\net10.0\Parentesis_balanceados.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Parentesis_balanceados\obj\Debug\net10.0\ref\Parentesis_balanceados.dll

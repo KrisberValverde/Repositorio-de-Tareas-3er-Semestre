@@ -1,0 +1,14 @@
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Torres_de_Hanoi\bin\Debug\net10.0\Torres_de_Hanoi.exe
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Torres_de_Hanoi\bin\Debug\net10.0\Torres_de_Hanoi.deps.json
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Torres_de_Hanoi\bin\Debug\net10.0\Torres_de_Hanoi.runtimeconfig.json
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Torres_de_Hanoi\bin\Debug\net10.0\Torres_de_Hanoi.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Torres_de_Hanoi\bin\Debug\net10.0\Torres_de_Hanoi.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Torres_de_Hanoi\obj\Debug\net10.0\Torres_de_Hanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Torres_de_Hanoi\obj\Debug\net10.0\Torres_de_Hanoi.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Torres_de_Hanoi\obj\Debug\net10.0\Torres_de_Hanoi.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Torres_de_Hanoi\obj\Debug\net10.0\Torres_de_Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Torres_de_Hanoi\obj\Debug\net10.0\Torres_de_Hanoi.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Torres_de_Hanoi\obj\Debug\net10.0\refint\Torres_de_Hanoi.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Torres_de_Hanoi\obj\Debug\net10.0\Torres_de_Hanoi.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Torres_de_Hanoi\obj\Debug\net10.0\Torres_de_Hanoi.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Torres_de_Hanoi\obj\Debug\net10.0\ref\Torres_de_Hanoi.dll

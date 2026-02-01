@@ -1,0 +1,14 @@
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Auditorio_100_asientos\bin\Debug\net10.0\Auditorio_100_asientos.exe
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Auditorio_100_asientos\bin\Debug\net10.0\Auditorio_100_asientos.deps.json
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Auditorio_100_asientos\bin\Debug\net10.0\Auditorio_100_asientos.runtimeconfig.json
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Auditorio_100_asientos\bin\Debug\net10.0\Auditorio_100_asientos.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Auditorio_100_asientos\bin\Debug\net10.0\Auditorio_100_asientos.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Auditorio_100_asientos\obj\Debug\net10.0\Auditorio_100_asientos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Auditorio_100_asientos\obj\Debug\net10.0\Auditorio_100_asientos.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Auditorio_100_asientos\obj\Debug\net10.0\Auditorio_100_asientos.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Auditorio_100_asientos\obj\Debug\net10.0\Auditorio_100_asientos.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Auditorio_100_asientos\obj\Debug\net10.0\Auditorio_100_asientos.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Auditorio_100_asientos\obj\Debug\net10.0\refint\Auditorio_100_asientos.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Auditorio_100_asientos\obj\Debug\net10.0\Auditorio_100_asientos.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Auditorio_100_asientos\obj\Debug\net10.0\Auditorio_100_asientos.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Auditorio_100_asientos\obj\Debug\net10.0\ref\Auditorio_100_asientos.dll

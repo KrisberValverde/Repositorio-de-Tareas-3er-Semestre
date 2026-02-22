@@ -1,0 +1,14 @@
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Campaña_de_vacunacion\bin\Debug\net10.0\Campaña_de_vacunacion.exe
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Campaña_de_vacunacion\bin\Debug\net10.0\Campaña_de_vacunacion.deps.json
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Campaña_de_vacunacion\bin\Debug\net10.0\Campaña_de_vacunacion.runtimeconfig.json
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Campaña_de_vacunacion\bin\Debug\net10.0\Campaña_de_vacunacion.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Campaña_de_vacunacion\bin\Debug\net10.0\Campaña_de_vacunacion.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Campaña_de_vacunacion\obj\Debug\net10.0\Campaña_de_vacunacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Campaña_de_vacunacion\obj\Debug\net10.0\Campaña_de_vacunacion.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Campaña_de_vacunacion\obj\Debug\net10.0\Campaña_de_vacunacion.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Campaña_de_vacunacion\obj\Debug\net10.0\Campaña_de_vacunacion.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Campaña_de_vacunacion\obj\Debug\net10.0\Campaña_de_vacunacion.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Campaña_de_vacunacion\obj\Debug\net10.0\refint\Campaña_de_vacunacion.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Campaña_de_vacunacion\obj\Debug\net10.0\Campaña_de_vacunacion.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Campaña_de_vacunacion\obj\Debug\net10.0\Campaña_de_vacunacion.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\Campaña_de_vacunacion\obj\Debug\net10.0\ref\Campaña_de_vacunacion.dll

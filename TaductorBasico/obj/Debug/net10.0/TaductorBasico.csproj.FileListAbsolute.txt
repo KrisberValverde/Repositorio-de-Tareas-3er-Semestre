@@ -1,0 +1,14 @@
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\TaductorBasico\bin\Debug\net10.0\TaductorBasico.exe
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\TaductorBasico\bin\Debug\net10.0\TaductorBasico.deps.json
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\TaductorBasico\bin\Debug\net10.0\TaductorBasico.runtimeconfig.json
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\TaductorBasico\bin\Debug\net10.0\TaductorBasico.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\TaductorBasico\bin\Debug\net10.0\TaductorBasico.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\TaductorBasico\obj\Debug\net10.0\TaductorBasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\TaductorBasico\obj\Debug\net10.0\TaductorBasico.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\TaductorBasico\obj\Debug\net10.0\TaductorBasico.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\TaductorBasico\obj\Debug\net10.0\TaductorBasico.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\TaductorBasico\obj\Debug\net10.0\TaductorBasico.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\TaductorBasico\obj\Debug\net10.0\refint\TaductorBasico.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\TaductorBasico\obj\Debug\net10.0\TaductorBasico.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\TaductorBasico\obj\Debug\net10.0\TaductorBasico.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\TaductorBasico\obj\Debug\net10.0\ref\TaductorBasico.dll

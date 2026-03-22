@@ -1,0 +1,14 @@
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\ArbolBinarioDeBusqueda\bin\Debug\net10.0\ArbolBinarioDeBusqueda.exe
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\ArbolBinarioDeBusqueda\bin\Debug\net10.0\ArbolBinarioDeBusqueda.deps.json
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\ArbolBinarioDeBusqueda\bin\Debug\net10.0\ArbolBinarioDeBusqueda.runtimeconfig.json
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\ArbolBinarioDeBusqueda\bin\Debug\net10.0\ArbolBinarioDeBusqueda.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\ArbolBinarioDeBusqueda\bin\Debug\net10.0\ArbolBinarioDeBusqueda.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\ArbolBinarioDeBusqueda\obj\Debug\net10.0\ArbolBinarioDeBusqueda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\ArbolBinarioDeBusqueda\obj\Debug\net10.0\ArbolBinarioDeBusqueda.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\ArbolBinarioDeBusqueda\obj\Debug\net10.0\ArbolBinarioDeBusqueda.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\ArbolBinarioDeBusqueda\obj\Debug\net10.0\ArbolBinarioDeBusqueda.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\ArbolBinarioDeBusqueda\obj\Debug\net10.0\ArbolBinarioDeBusqueda.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\ArbolBinarioDeBusqueda\obj\Debug\net10.0\refint\ArbolBinarioDeBusqueda.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\ArbolBinarioDeBusqueda\obj\Debug\net10.0\ArbolBinarioDeBusqueda.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\ArbolBinarioDeBusqueda\obj\Debug\net10.0\ArbolBinarioDeBusqueda.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\ArbolBinarioDeBusqueda\obj\Debug\net10.0\ref\ArbolBinarioDeBusqueda.dll

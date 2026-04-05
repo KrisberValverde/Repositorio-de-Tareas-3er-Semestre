@@ -1,0 +1,14 @@
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\SistemaBusquedaVuelosBaratos\bin\Debug\net10.0\SistemaBusquedaVuelosBaratos.exe
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\SistemaBusquedaVuelosBaratos\bin\Debug\net10.0\SistemaBusquedaVuelosBaratos.deps.json
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\SistemaBusquedaVuelosBaratos\bin\Debug\net10.0\SistemaBusquedaVuelosBaratos.runtimeconfig.json
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\SistemaBusquedaVuelosBaratos\bin\Debug\net10.0\SistemaBusquedaVuelosBaratos.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\SistemaBusquedaVuelosBaratos\bin\Debug\net10.0\SistemaBusquedaVuelosBaratos.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\SistemaBusquedaVuelosBaratos\obj\Debug\net10.0\SistemaBusquedaVuelosBaratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\SistemaBusquedaVuelosBaratos\obj\Debug\net10.0\SistemaBusquedaVuelosBaratos.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\SistemaBusquedaVuelosBaratos\obj\Debug\net10.0\SistemaBusquedaVuelosBaratos.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\SistemaBusquedaVuelosBaratos\obj\Debug\net10.0\SistemaBusquedaVuelosBaratos.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\SistemaBusquedaVuelosBaratos\obj\Debug\net10.0\SistemaBusquedaVuelosBaratos.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\SistemaBusquedaVuelosBaratos\obj\Debug\net10.0\refint\SistemaBusquedaVuelosBaratos.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\SistemaBusquedaVuelosBaratos\obj\Debug\net10.0\SistemaBusquedaVuelosBaratos.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\SistemaBusquedaVuelosBaratos\obj\Debug\net10.0\SistemaBusquedaVuelosBaratos.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Documentos\Proyectos Lenguaje C#\SistemaBusquedaVuelosBaratos\obj\Debug\net10.0\ref\SistemaBusquedaVuelosBaratos.dll

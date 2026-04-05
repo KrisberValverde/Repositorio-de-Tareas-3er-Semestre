@@ -1,0 +1,7 @@
+Quito Guayaquil 86
+Quito Cuenca 60
+Cuenca Guayaquil 58
+Guayaquil Loja 64
+Loja Quito 80
+Coca Quito 50
+Guayaquil Coca 95
